@@ -16,5 +16,6 @@
 1.Bot 設置頁面，機器人名字下方有機器人的 TOKEN，如果忘記之前的 TOKEN 或者不小心外露出去讓別人知道，只要點擊 Reset Token 換新的一組 TOKEN 即可。<br>
 注意!! TOKEN 是控制機器人的鑰匙，要嚴禁保管好！<br>
 <br>
-2.將獲取TOKEN放進此檔.env資料夾，開啟VSCODE 運行main.py 顯示log in 你的機器人名稱 代表運行成功。<br>
+2.下載requirements所需函示庫<br>
+3.將獲取TOKEN放進此檔.env資料夾，開啟VSCODE 運行main.py 顯示log in 你的機器人名稱 代表運行成功。<br>
 ![image](https://github.com/user-attachments/assets/513d9d25-5882-48c4-864d-fae890237d18)
